@@ -22,7 +22,7 @@ About the code :
     Execution steps :
 
     1. Once all the requirements are installed and set, for easy execution, one can copy the code and run  it on ipython kernel/ Jupyter notebook
-    ![ipython](images/Screenshot from 2020-07-12 22-24-09.png)
+    ![ipython](https://github.com/AbhijithKp98/Skills_Tracker_GUI/blob/master/images/Screenshot%20from%202020-07-12%2022-24-09.png)
     2. Once run, it gives a pop-up box which is the simple & basic skill tracker tool 
     
     3. Fill in all the boxes and click submit. Once submitted, you can close the tracker
